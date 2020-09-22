@@ -1,3 +1,4 @@
 # hello-world
 My first repository on Github
-I love :movies: :bicycle:, and music.
+
+I love :coffee: :pizza:, and :dancer:.
